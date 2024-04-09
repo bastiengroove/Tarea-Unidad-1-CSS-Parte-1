@@ -1,0 +1,72 @@
+h1{
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to bottom, black, white);
+    background: linear-gradient(to right, black, white);
+    box-shadow: 0 0 5px #888;
+    column-count: 2;
+    column-gap: 20px;
+}
+
+
+h4{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Kalam", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+ul{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-family: "Kalam", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+li{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    column-count: 2;
+    column-gap: 20px;
+    font-family: "Kalam", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+p{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    column-count: 2;
+    column-gap: 20px;
+    font-family: "Kalam", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+li{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    column-count: 2;
+    column-gap: 20px;
+    font-family: "Kalam", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+a{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    column-count: 2;
+    column-gap: 20px;
+    font-family: "Kalam", cursive;
+  font-weight: 300;
+  font-style: normal;
+  
+}
+
+body{
+    background-color: honeydew;
+}
